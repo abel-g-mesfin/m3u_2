@@ -1,0 +1,2502 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv generator-info-name="DrewLive Filtered EPG - Shortened">
+<channel id="a.e.east.us"><display-name>A&amp;E East US</display-name></channel>
+
+<channel id="a.e.west.us"><display-name>A&amp;E West US</display-name></channel>
+
+<channel id="abc.7.kmgh.denver.hd.us"><display-name>ABC 7 (KMGH) Denver HD US</display-name></channel>
+
+<channel id="acc.network.us"><display-name>ACC Network US</display-name></channel>
+
+<channel id="altitude.2.us"><display-name>Altitude 2 US</display-name></channel>
+
+<channel id="altitude.sports.alternate.hd.us"><display-name>Altitude Sports Alternate HD US</display-name></channel>
+
+<channel id="altitude.sports.hd.us"><display-name>Altitude Sports HD US</display-name></channel>
+
+<channel id="amc.us"><display-name>AMC US</display-name></channel>
+
+<channel id="amc.west.us"><display-name>AMC West US</display-name></channel>
+
+<channel id="animal.planet.east.us"><display-name>Animal Planet East US</display-name></channel>
+
+<channel id="animal.planet.west.us"><display-name>Animal Planet West US</display-name></channel>
+
+<channel id="bet.east.us"><display-name>BET East US</display-name></channel>
+
+<channel id="bet.west.us"><display-name>BET West US</display-name></channel>
+
+<channel id="big.ten.network.fhd.us"><display-name>Big Ten Network FHD US</display-name></channel>
+
+<channel id="bounce.tv.us"><display-name>BOUNCE TV US</display-name></channel>
+
+<channel id="bravo.east.us"><display-name>Bravo East US</display-name></channel>
+
+<channel id="bravo.west.us"><display-name>Bravo West US</display-name></channel>
+
+<channel id="c.span.2.us"><display-name>C-SPAN 2 US</display-name></channel>
+
+<channel id="c.span.3.us"><display-name>C-SPAN 3 US</display-name></channel>
+
+<channel id="c.span.us"><display-name>C-SPAN US</display-name></channel>
+
+<channel id="cartoon.network.us"><display-name>Cartoon Network US</display-name></channel>
+
+<channel id="cartoon.network.west.us"><display-name>Cartoon Network West US</display-name></channel>
+
+<channel id="cbs.11.kktv.colorado.springs.hd.us"><display-name>CBS 11 (KKTV) Colorado springs HD US</display-name></channel>
+
+<channel id="cbs.4.kcnc.denver.hd.us"><display-name>CBS 4 (KCNC) Denver HD US</display-name></channel>
+
+<channel id="cbs.news.colorado.us"><display-name>CBS News Colorado US</display-name></channel>
+
+<channel id="CBS.Sports.Network.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s59250_ll_h15_ac.png?w=360&amp;h=270"/>
+    <icon src="http://dtil.tmsimg.com/assets/s59250_ll_h15_ac.png?w=360&amp;h=270"/>
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">CBS Sports Network HD US</display-name></channel>
+  
+
+<channel id="CNBC.us">
+    <display-name lang="en">CNBC US</display-name><url>http://www.audacy.com</url>
+  </channel>
+  
+
+<channel id="cnn.us"><display-name>CNN US</display-name></channel>
+
+<channel id="co.colorado.springs.univision.kvsn"><display-name>CO | Colorado Springs | UNIVISION KVSN</display-name></channel>
+
+<channel id="co.denver.pbs.kbdi"><display-name>CO | Denver | PBS KBDI</display-name></channel>
+
+<channel id="co.rocky.mountain.pbs.kids"><display-name>CO | Rocky Mountain | PBS Kids</display-name></channel>
+
+<channel id="co.rocky.mountain.pbs.krma"><display-name>CO | Rocky Mountain | PBS KRMA</display-name></channel>
+
+<channel id="comedy.central.us"><display-name>Comedy Central US</display-name></channel>
+
+<channel id="comedy.central.west.us"><display-name>Comedy Central West US</display-name></channel>
+
+<channel id="comet.us"><display-name>Comet US</display-name></channel>
+
+<channel id="cooking.channel.us"><display-name>Cooking Channel US</display-name></channel>
+
+<channel id="court.tv.us"><display-name>Court TV US</display-name></channel>
+
+<channel id="cozi.tv.us"><display-name>Cozi TV US</display-name></channel>
+
+<channel id="destination.america.us"><display-name>Destination America US</display-name></channel>
+
+<channel id="discovery.east.us"><display-name>Discovery East US</display-name></channel>
+
+<channel id="discovery.family.us"><display-name>Discovery Family US</display-name></channel>
+
+<channel id="discovery.life.us"><display-name>Discovery Life US</display-name></channel>
+
+<channel id="discovery.science.us"><display-name>Discovery Science US</display-name></channel>
+
+<channel id="discovery.west.us"><display-name>Discovery West US</display-name></channel>
+
+<channel id="disney.channel.us"><display-name>Disney Channel US</display-name></channel>
+
+<channel id="disney.channel.west.us"><display-name>Disney Channel West US</display-name></channel>
+
+<channel id="disney.junior.us"><display-name>Disney Junior US</display-name></channel>
+
+<channel id="disney.junior.west.us"><display-name>Disney Junior West US</display-name></channel>
+
+<channel id="disney.xd.us"><display-name>Disney XD US</display-name></channel>
+
+<channel id="disney.xd.west.us"><display-name>Disney XD West US</display-name></channel>
+
+<channel id="espn.2.fhd.us"><display-name>ESPN 2 FHD US</display-name></channel>
+
+<channel id="espn.2.hd.us"><display-name>ESPN 2 HD US</display-name></channel>
+
+<channel id="espn.2.us"><display-name>ESPN 2 US</display-name></channel>
+
+<channel id="espn.deportes.us"><display-name>ESPN Deportes US</display-name></channel>
+
+<channel id="espn.fhd.us"><display-name>ESPN FHD US</display-name></channel>
+
+<channel id="espn.hd.us"><display-name>ESPN HD US</display-name></channel>
+
+<channel id="espn.news.fhd.us"><display-name>ESPN News FHD US</display-name></channel>
+
+<channel id="espn.news.hd.us"><display-name>ESPN News HD US</display-name></channel>
+
+<channel id="espn.u.fhd.us"><display-name>ESPN U FHD US</display-name></channel>
+
+<channel id="espn.u.us"><display-name>ESPN U US</display-name></channel>
+
+<channel id="espn.us"><display-name>ESPN US</display-name></channel>
+
+<channel id="food.network.east.us"><display-name>Food Network East US</display-name></channel>
+
+<channel id="food.network.west.us"><display-name>Food Network West US</display-name></channel>
+
+<channel id="fox.21.kxrm.colorado.springs.hd.us"><display-name>FOX 21 (KXRM) Colorado Springs HD US</display-name></channel>
+
+<channel id="fox.31.kdvr.denver.hd.us"><display-name>FOX 31 (KDVR) Denver HD US</display-name></channel>
+
+<channel id="fox.business.network.hd.us"><display-name>Fox Business Network HD US</display-name></channel>
+
+<channel id="fox.business.us"><display-name>Fox Business US</display-name></channel>
+
+<channel id="fox.news.channel.hd.us"><display-name>Fox News Channel HD US</display-name></channel>
+
+<channel id="fox.sports.1.fhd.us"><display-name>Fox Sports 1 FHD US</display-name></channel>
+
+<channel id="fox.sports.1.hd.us"><display-name>Fox Sports 1 HD US</display-name></channel>
+
+<channel id="fox.sports.2.fhd.us"><display-name>Fox Sports 2 FHD US</display-name></channel>
+
+<channel id="fox.sports.2.hd.us"><display-name>Fox Sports 2 HD US</display-name></channel>
+
+<channel id="freeform.us"><display-name>Freeform US</display-name></channel>
+
+<channel id="freeform.west.us"><display-name>Freeform West US</display-name></channel>
+
+<channel id="fx.east.us"><display-name>FX East US</display-name></channel>
+
+<channel id="fx.west.us"><display-name>FX West US</display-name></channel>
+
+<channel id="fxm.us"><display-name>FXM US</display-name></channel>
+
+<channel id="fxx.us"><display-name>FXX US</display-name></channel>
+
+<channel id="fxx.west.us"><display-name>FXX West US</display-name></channel>
+
+<channel id="golf.channel.fhd.us"><display-name>Golf Channel FHD US</display-name></channel>
+
+<channel id="golf.channel.hd.us"><display-name>Golf Channel HD US</display-name></channel>
+
+<channel id="grit.tv.us"><display-name>Grit TV US</display-name></channel>
+
+<channel id="gsn.us"><display-name>GSN US</display-name></channel>
+
+<channel id="gsn.west.us"><display-name>GSN West US</display-name></channel>
+
+<channel id="hallmark.channel.east.us"><display-name>Hallmark Channel East US</display-name></channel>
+
+<channel id="hallmark.family.us"><display-name>Hallmark Family US</display-name></channel>
+
+<channel id="hallmark.mystery.us"><display-name>Hallmark Mystery US</display-name></channel>
+
+<channel id="hallmark.west.us"><display-name>Hallmark West US</display-name></channel>
+
+<channel id="hgtv.east.us"><display-name>HGTV East US</display-name></channel>
+
+<channel id="hgtv.west.us"><display-name>HGTV West US</display-name></channel>
+
+<channel id="history.us"><display-name>History US</display-name></channel>
+
+<channel id="history.west.us"><display-name>History West US</display-name></channel>
+
+<channel id="investigation.discovery.hd.us"><display-name>Investigation Discovery HD US</display-name></channel>
+
+<channel id="investigation.discovery.west.hd.us"><display-name>Investigation Discovery West HD US</display-name></channel>
+
+<channel id="ion.television.us"><display-name>ION Television US</display-name></channel>
+
+<channel id="ion.television.west.us"><display-name>ION Television West US</display-name></channel>
+
+<channel id="lifetime.east.us"><display-name>Lifetime East US</display-name></channel>
+
+<channel id="lifetime.movie.east.lmn.us"><display-name>Lifetime Movie East LMN US</display-name></channel>
+
+<channel id="lifetime.movie.west.us"><display-name>Lifetime Movie West US</display-name></channel>
+
+<channel id="lifetime.west.us"><display-name>Lifetime West US</display-name></channel>
+
+<channel id="magnolia.network.us"><display-name>Magnolia Network US</display-name></channel>
+
+<channel id="metv.network.us"><display-name>MeTV Network US</display-name></channel>
+
+<channel id="mlb.colorado.rockies"><display-name>MLB | Colorado Rockies</display-name></channel>
+
+<channel id="mlb.network"><display-name>MLB Network</display-name></channel>
+
+<channel id="mlb.network.hd.us"><display-name>MLB Network HD US</display-name></channel>
+
+<channel id="mtv.us"><display-name>MTV US</display-name></channel>
+
+<channel id="mtv.west.us"><display-name>MTV West US</display-name></channel>
+
+<channel id="nat.geo.east.us"><display-name>Nat Geo East US</display-name></channel>
+
+<channel id="nat.geo.hd.us"><display-name>Nat Geo HD US</display-name></channel>
+
+<channel id="nat.geo.west.us"><display-name>Nat Geo West US</display-name></channel>
+
+<channel id="nat.geo.wild.east.us"><display-name>Nat Geo Wild East US</display-name></channel>
+
+<channel id="nat.geo.wild.us"><display-name>Nat Geo Wild US</display-name></channel>
+
+<channel id="nba.denver.nuggets.us"><display-name>NBA Denver Nuggets US</display-name></channel>
+
+<channel id="nba.tv.fhd.us"><display-name>NBA TV FHD US</display-name></channel>
+
+<channel id="nbc.9.kusa.denver.hd.us"><display-name>NBC 9 (KUSA) Denver HD US</display-name></channel>
+
+<channel id="Newsmax.us">
+    <display-name lang="en">Newsmax US</display-name><icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/logos/nmx.png"/>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/logos/nmx.png"/>
+    <url>http://www.audacy.com</url>
+  </channel>
+  
+
+<channel id="nfl.network.hd.us"><display-name>NFL Network HD US</display-name></channel>
+
+<channel id="nfl.network.us"><display-name>NFL Network US</display-name></channel>
+
+<channel id="nfl.redzone.hd.us"><display-name>NFL RedZone HD US</display-name></channel>
+
+<channel id="nfl.redzone.us"><display-name>NFL RedZone US</display-name></channel>
+
+<channel id="nfl.teams.denver.broncos"><display-name>NFL Teams: Denver Broncos</display-name></channel>
+
+<channel id="nhl.colorado.avalanche"><display-name>NHL | COLORADO AVALANCHE</display-name></channel>
+
+<channel id="nhl.network.hd.us"><display-name>NHL Network HD US</display-name></channel>
+
+<channel id="nhl.network.us"><display-name>NHL Network US</display-name></channel>
+
+<channel id="nickelodeon.us"><display-name>Nickelodeon US</display-name></channel>
+
+<channel id="nickelodeon.west.us"><display-name>Nickelodeon West US</display-name></channel>
+
+<channel id="own.us"><display-name>OWN US</display-name></channel>
+
+<channel id="own.west.us"><display-name>OWN West US</display-name></channel>
+
+<channel id="oxygen.east.us"><display-name>Oxygen East US</display-name></channel>
+
+<channel id="oxygen.west.us"><display-name>Oxygen West US</display-name></channel>
+
+<channel id="pac.12.insider.fhd.us"><display-name>Pac-12 Insider FHD US</display-name></channel>
+
+<channel id="pac.12.insider.hd.us"><display-name>Pac-12 Insider HD US</display-name></channel>
+
+<channel id="pac.12.insider.us"><display-name>PAC-12 Insider US</display-name></channel>
+
+<channel id="paramount.network.us"><display-name>Paramount Network US</display-name></channel>
+
+<channel id="paramount.network.west.us"><display-name>Paramount Network West US</display-name></channel>
+
+<channel id="reelz.us"><display-name>Reelz US</display-name></channel>
+
+<channel id="smithsonian.channel.us"><display-name>Smithsonian Channel US</display-name></channel>
+
+<channel id="start.tv.us"><display-name>Start TV US</display-name></channel>
+
+<channel id="sundance.us"><display-name>Sundance US</display-name></channel>
+
+<channel id="syfy.east.us"><display-name>Syfy East US</display-name></channel>
+
+<channel id="syfy.west.us"><display-name>Syfy West US</display-name></channel>
+
+<channel id="tbs.east.us"><display-name>TBS East US</display-name></channel>
+
+<channel id="tbs.west.us"><display-name>TBS West US</display-name></channel>
+
+<channel id="tcm.us"><display-name>TCM US</display-name></channel>
+
+<channel id="the.weather.channel.us"><display-name>The Weather Channel US</display-name></channel>
+
+<channel id="tlc.east.us"><display-name>TLC East US</display-name></channel>
+
+<channel id="tlc.west.us"><display-name>TLC West US</display-name></channel>
+
+<channel id="tnt.us"><display-name>TNT US</display-name></channel>
+
+<channel id="tnt.west.us"><display-name>TNT West US</display-name></channel>
+
+<channel id="travel.channel.us"><display-name>Travel Channel US</display-name></channel>
+
+<channel id="travel.channel.west.us"><display-name>Travel Channel West US</display-name></channel>
+
+<channel id="trutv.east.us"><display-name>truTV East US</display-name></channel>
+
+<channel id="tv.land.us"><display-name>TV Land US</display-name></channel>
+
+<channel id="tv.land.west.us"><display-name>TV Land West US</display-name></channel>
+
+<channel id="usa.network.us"><display-name>USA Network US</display-name></channel>
+
+<channel id="usa.network.west.us"><display-name>USA Network West US</display-name></channel>
+
+<channel id="vh1.us"><display-name>VH1 US</display-name></channel>
+
+<channel id="vh1.west.us"><display-name>VH1 West US</display-name></channel>
+
+<channel id="we.tv.us"><display-name>We TV US</display-name></channel>
+
+<channel id="msnbc.us.local"><display-name>MSNBC US</display-name><icon src="https://media1.s-nbcnews.com/i/newscms/2018_21/2442291/msnbc-og-image_c986de7e1bb6ad2281723b692aa61990.png"/></channel><programme channel="a.e.east.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="a.e.west.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="abc.7.kmgh.denver.hd.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="acc.network.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="altitude.2.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="altitude.sports.alternate.hd.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="altitude.sports.hd.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="amc.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="amc.west.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="animal.planet.east.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="animal.planet.west.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="bet.east.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="bet.west.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="big.ten.network.fhd.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="bounce.tv.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="bravo.east.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="bravo.west.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="c.span.2.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="c.span.3.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="c.span.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="cartoon.network.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="cartoon.network.west.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="cbs.11.kktv.colorado.springs.hd.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="cbs.4.kcnc.denver.hd.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="cbs.news.colorado.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260913023000 +0000" stop="20260913060000 +0000">
+    <title lang="en">Live: College Football</title>
+    <desc lang="en">The Sacramento State Hornets take on the Fresno State Bulldogs at Valley Children's Stadium. Fresno State seeks recovery after a 39-0 shutout loss to No. 14 USC. The Hornets head south at 1-1 following a 52-0 win over Mississippi Valley State.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0036W8XT.jpg?w=960&amp;h=540"/>
+    <premiere lang="en"/>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260913060000 +0000" stop="20260913063000 +0000">
+    <title lang="en">Inside College Football</title>
+    <desc lang="en">Adam Zucker, Rick Neuheisel and Brian Jones discuss college football news and preview the SEC game of the week.</desc>
+    <credits>
+      <actor>Adam Zucker</actor>
+      <actor>Rick Neuheisel</actor>
+      <actor>Brian Jones</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="en">Football</category>
+    <icon src="http://dtil.tmsimg.com/assets/p8913117_b_h10_af.jpg?w=960&amp;h=540"/>
+    <premiere lang="en"/>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260913063000 +0000" stop="20260913070000 +0000">
+    <title lang="en">Inside College Football</title>
+    <desc lang="en">Adam Zucker, Rick Neuheisel and Brian Jones discuss college football news and preview the SEC game of the week.</desc>
+    <credits>
+      <actor>Adam Zucker</actor>
+      <actor>Rick Neuheisel</actor>
+      <actor>Brian Jones</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="en">Football</category>
+    <icon src="http://dtil.tmsimg.com/assets/p8913117_b_h10_af.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260913070000 +0000" stop="20260913080000 +0000">
+    <title lang="en">Live: FIM Motocross World Championship</title>
+    <desc lang="en">From Shanghai, China.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motorcycle racing</category>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG003NKN96.jpg?w=960&amp;h=540"/>
+    <premiere lang="en"/>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260913080000 +0000" stop="20260913090000 +0000">
+    <title lang="en">Live: FIM Motocross World Championship</title>
+    <desc lang="en">From Shanghai, China.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motorcycle racing</category>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG003NKRVL.jpg?w=960&amp;h=540"/>
+    <premiere lang="en"/>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260913090000 +0000" stop="20260913093000 +0000">
+    <title lang="en">Inside College Football</title>
+    <desc lang="en">Adam Zucker, Rick Neuheisel and Brian Jones discuss college football news and preview the SEC game of the week.</desc>
+    <credits>
+      <actor>Adam Zucker</actor>
+      <actor>Rick Neuheisel</actor>
+      <actor>Brian Jones</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="en">Football</category>
+    <icon src="http://dtil.tmsimg.com/assets/p8913117_b_h10_af.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260913093000 +0000" stop="20260913100000 +0000">
+    <title lang="en">Inside College Football</title>
+    <desc lang="en">Adam Zucker, Rick Neuheisel and Brian Jones discuss college football news and preview the SEC game of the week.</desc>
+    <credits>
+      <actor>Adam Zucker</actor>
+      <actor>Rick Neuheisel</actor>
+      <actor>Brian Jones</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="en">Football</category>
+    <icon src="http://dtil.tmsimg.com/assets/p8913117_b_h10_af.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260913100000 +0000" stop="20260913103000 +0000">
+    <title lang="en">Inside College Football</title>
+    <desc lang="en">Adam Zucker, Rick Neuheisel and Brian Jones discuss college football news and preview the SEC game of the week.</desc>
+    <credits>
+      <actor>Adam Zucker</actor>
+      <actor>Rick Neuheisel</actor>
+      <actor>Brian Jones</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="en">Football</category>
+    <icon src="http://dtil.tmsimg.com/assets/p8913117_b_h10_af.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260913103000 +0000" stop="20260913110000 +0000">
+    <title lang="en">Inside College Football</title>
+    <desc lang="en">Adam Zucker, Rick Neuheisel and Brian Jones discuss college football news and preview the SEC game of the week.</desc>
+    <credits>
+      <actor>Adam Zucker</actor>
+      <actor>Rick Neuheisel</actor>
+      <actor>Brian Jones</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="en">Football</category>
+    <icon src="http://dtil.tmsimg.com/assets/p8913117_b_h10_af.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260913110000 +0000" stop="20260913130000 +0000">
+    <title lang="en">Live: FA Women's Super League</title>
+    <desc lang="en">From Progress with Unity Stadium in Leigh, England, United Kingdom.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG003N2P18.jpg?w=960&amp;h=540"/>
+    <premiere lang="en"/>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260913130000 +0000" stop="20260913150000 +0000">
+    <title lang="en">Live: Italian Serie A Soccer</title>
+    <desc lang="en">From Via del Mare Stadium in Lecce, Apulia, Italy.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG003MES9S.jpg?w=960&amp;h=540"/>
+    <premiere lang="en"/>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260913150000 +0000" stop="20260913153000 +0000">
+    <title lang="en">Inside College Football</title>
+    <desc lang="en">Adam Zucker, Rick Neuheisel and Brian Jones discuss college football news and preview the SEC game of the week.</desc>
+    <credits>
+      <actor>Adam Zucker</actor>
+      <actor>Rick Neuheisel</actor>
+      <actor>Brian Jones</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="en">Football</category>
+    <icon src="http://dtil.tmsimg.com/assets/p8913117_b_h10_af.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260913153000 +0000" stop="20260913160000 +0000">
+    <title lang="en">Inside College Football</title>
+    <desc lang="en">Adam Zucker, Rick Neuheisel and Brian Jones discuss college football news and preview the SEC game of the week.</desc>
+    <credits>
+      <actor>Adam Zucker</actor>
+      <actor>Rick Neuheisel</actor>
+      <actor>Brian Jones</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="en">Football</category>
+    <icon src="http://dtil.tmsimg.com/assets/p8913117_b_h10_af.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260913160000 +0000" stop="20260913180000 +0000">
+    <title lang="en">Live: Italian Serie A Soccer</title>
+    <desc lang="en">From Diego Armando Maradona Stadium in Naples, Campania, Italy.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG003N2X7L.jpg?w=960&amp;h=540"/>
+    <premiere lang="en"/>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260913180000 +0000" stop="20260913190000 +0000">
+    <title lang="en">CBS Sports Golazo Matchday</title>
+    <date>2024</date>
+    <category lang="en">Soccer</category>
+    <icon src="http://dtil.tmsimg.com/assets/p26681750_b_h10_ac.jpg?w=960&amp;h=540"/>
+    <premiere lang="en"/>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260913190000 +0000" stop="20260913210000 +0000">
+    <title lang="en">Live: Italian Serie A Soccer</title>
+    <desc lang="en">From Mapei Stadium - Citta del Tricolore in Reggio Emilia, Emilia-Romagna, Italy.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG003MEYWZ.jpg?w=960&amp;h=540"/>
+    <premiere lang="en"/>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260913210000 +0000" stop="20260913230000 +0000">
+    <title lang="en">Rugby Union Internationals</title>
+    <desc lang="en">New Zealand and South Africa are set to clash at M&amp;T Bank Stadium in Baltimore in the fourth and final test in this heated international rugby rivalry.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <category lang="en">Rugby union</category>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG003F8SDT.jpg?w=960&amp;h=540"/>
+    <premiere lang="en"/>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260913230000 +0000" stop="20260914003000 +0000">
+    <title lang="en">E1 Championship</title>
+    <category lang="en">Sports</category>
+    <category lang="en">Esports</category>
+    <category lang="en">Gaming</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20480171_b_h8_aa.jpg?w=960&amp;h=540"/>
+    <premiere lang="en"/>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260914003000 +0000" stop="20260914010000 +0000">
+    <title lang="en">Watercross</title>
+    <desc lang="en">From Norman, OK.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Watersports</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11927280_b_h10_aa.jpg?w=960&amp;h=540"/>
+    <premiere lang="en"/>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260914010000 +0000" stop="20260914020000 +0000">
+    <title lang="en">World Poker Tour</title>
+    <desc lang="en">Three players left. Catch the finale of the WPT Seminole Hard Rock Poker Showdown Championship.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Poker</category>
+    <category lang="en">Card games</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11340018_b_h10_ae.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260914020000 +0000" stop="20260914030000 +0000">
+    <title lang="en">World Poker Tour</title>
+    <desc lang="en">Yee Haw! The WPT Choctaw final table action begins with six players.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Poker</category>
+    <category lang="en">Card games</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11340018_b_h10_ae.jpg?w=960&amp;h=540"/>
+    <premiere lang="en"/>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260914030000 +0000" stop="20260914050000 +0000">
+    <title lang="en">Rugby Union Internationals</title>
+    <desc lang="en">New Zealand and South Africa are set to clash at M&amp;T Bank Stadium in Baltimore in the fourth and final test in this heated international rugby rivalry.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <category lang="en">Rugby union</category>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG003F8SDT.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260914050000 +0000" stop="20260914060000 +0000">
+    <title lang="en">FIM Motocross World Championship</title>
+    <desc lang="en">From Shanghai, China.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motorcycle racing</category>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG003NKN96.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260914060000 +0000" stop="20260914070000 +0000">
+    <title lang="en">FIM Motocross World Championship</title>
+    <desc lang="en">From Shanghai, China.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motorcycle racing</category>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG003NKRVL.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260914070000 +0000" stop="20260914080000 +0000">
+    <title lang="en">World Poker Tour</title>
+    <desc lang="en">Yee Haw! The WPT Choctaw final table action begins with six players.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Poker</category>
+    <category lang="en">Card games</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11340018_b_h10_ae.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260914080000 +0000" stop="20260914093000 +0000">
+    <title lang="en">E1 Championship</title>
+    <category lang="en">Sports</category>
+    <category lang="en">Esports</category>
+    <category lang="en">Gaming</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20480171_b_h8_aa.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260914093000 +0000" stop="20260914100000 +0000">
+    <title lang="en">Watercross</title>
+    <desc lang="en">From Norman, OK.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Watersports</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11927280_b_h10_aa.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260914100000 +0000" stop="20260914140000 +0000">
+    <title lang="en">Live: Boomer and Gio</title>
+    <desc lang="en">CBS Sports Network simulcasts WFAN's "Boomer and Gio." Former NFL MVP Boomer Esiason and longtime radio personality Gregg Giannotti tackle the latest sports news and headlines.</desc>
+    <credits>
+      <actor>Boomer Esiason</actor>
+      <actor>Gregg Giannotti</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Sports talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14976231_b_h10_ac.jpg?w=960&amp;h=540"/>
+    <premiere lang="en"/>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260914140000 +0000" stop="20260914160000 +0000">
+    <title lang="en">Rugby Union Internationals</title>
+    <desc lang="en">New Zealand and South Africa are set to clash at M&amp;T Bank Stadium in Baltimore in the fourth and final test in this heated international rugby rivalry.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <category lang="en">Rugby union</category>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG003F8SDT.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260914160000 +0000" stop="20260914170000 +0000">
+    <title lang="en">The Early Edge</title>
+    <desc lang="en">Morning sports betting show packed with the best picks to start your day.</desc>
+    <date>2026</date>
+    <category lang="en">Sports talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33088948_b_h8_ab.jpg?w=960&amp;h=540"/>
+    <premiere lang="en"/>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260914170000 +0000" stop="20260914180000 +0000">
+    <title lang="en">CFB Insiders</title>
+    <desc lang="en">College football experts take you behind the scenes for exclusive access and coverage.</desc>
+    <date>2026</date>
+    <category lang="en">Football</category>
+    <category lang="en">Sports talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33679032_b_h8_aa.jpg?w=960&amp;h=540"/>
+    <premiere lang="en"/>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260914180000 +0000" stop="20260914200000 +0000">
+    <title lang="en">CBS Sports HQ Spotlight</title>
+    <desc lang="en">Sports news and highlights.</desc>
+    <date>2023</date>
+    <category lang="en">Sports talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p23800264_b_h8_ac.jpg?w=960&amp;h=540"/>
+    <premiere lang="en"/>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260914200000 +0000" stop="20260914220000 +0000">
+    <title lang="en">CBS Sports HQ Spotlight</title>
+    <desc lang="en">Sports news and highlights.</desc>
+    <date>2023</date>
+    <category lang="en">Sports talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p23800264_b_h8_ac.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260914220000 +0000" stop="20260915010000 +0000">
+    <title lang="en">College Football</title>
+    <desc lang="en">The Minnesota Golden Gophers host the Mississippi State Bulldogs at Huntington Bank Stadium. Minnesota looks to build on a 59-7 win over Eastern Illinois in Week 1, while the SEC Bulldogs arrive fresh off a 62-13 rout of Louisiana-Monroe.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0036VEPP.jpg?w=960&amp;h=540"/>
+    <premiere lang="en"/>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260915010000 +0000" stop="20260915020000 +0000">
+    <title lang="en">Poker Night in America</title>
+    <desc lang="en">The show keeps it pretty simple, emphasizing the fun personalities and stories behind the players, injecting lifestyle and reality aspects to the game.</desc>
+    <credits>
+      <actor>Chris Hanson</actor>
+      <actor>Joe Stapleton</actor>
+      <director>Brian Hellevang</director>
+    </credits>
+    <category lang="en">Poker</category>
+    <category lang="en">Classic Sport Event</category>
+    <category lang="en">Card games</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14772098_b_h8_aa.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260915020000 +0000" stop="20260915050000 +0000">
+    <title lang="en">UFC Reloaded</title>
+    <desc lang="en">"UFC Reloaded" is a re-air of the biggest and most memorable UFC pay-per-view events in history. Of course, the fight results are history, too, but seeing the battles for the first time (or once again) is usually worth the wait, and it's free. The series also features footage that was never shown on the original PPV broadcast.</desc>
+    <category lang="en">Mixed martial arts</category>
+    <category lang="en">Classic Sport Event</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20418711_b_h10_aa.jpg?w=960&amp;h=540"/>
+    <premiere lang="en"/>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260915050000 +0000" stop="20260915060000 +0000">
+    <title lang="en">Poker Night in America</title>
+    <desc lang="en">The show keeps it pretty simple, emphasizing the fun personalities and stories behind the players, injecting lifestyle and reality aspects to the game.</desc>
+    <credits>
+      <actor>Chris Hanson</actor>
+      <actor>Joe Stapleton</actor>
+      <director>Brian Hellevang</director>
+    </credits>
+    <category lang="en">Poker</category>
+    <category lang="en">Classic Sport Event</category>
+    <category lang="en">Card games</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14772098_b_h8_aa.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260915060000 +0000" stop="20260915070000 +0000">
+    <title lang="en">Poker Night in America</title>
+    <desc lang="en">The show keeps it pretty simple, emphasizing the fun personalities and stories behind the players, injecting lifestyle and reality aspects to the game.</desc>
+    <credits>
+      <actor>Chris Hanson</actor>
+      <actor>Joe Stapleton</actor>
+      <director>Brian Hellevang</director>
+    </credits>
+    <category lang="en">Poker</category>
+    <category lang="en">Classic Sport Event</category>
+    <category lang="en">Card games</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14772098_b_h8_aa.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260915070000 +0000" stop="20260915100000 +0000">
+    <title lang="en">UFC Reloaded</title>
+    <desc lang="en">"UFC Reloaded" is a re-air of the biggest and most memorable UFC pay-per-view events in history. Of course, the fight results are history, too, but seeing the battles for the first time (or once again) is usually worth the wait, and it's free. The series also features footage that was never shown on the original PPV broadcast.</desc>
+    <category lang="en">Mixed martial arts</category>
+    <category lang="en">Classic Sport Event</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20418711_b_h10_aa.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260915100000 +0000" stop="20260915140000 +0000">
+    <title lang="en">Live: Boomer and Gio</title>
+    <desc lang="en">CBS Sports Network simulcasts WFAN's "Boomer and Gio." Former NFL MVP Boomer Esiason and longtime radio personality Gregg Giannotti tackle the latest sports news and headlines.</desc>
+    <credits>
+      <actor>Boomer Esiason</actor>
+      <actor>Gregg Giannotti</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Sports talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14976231_b_h10_ac.jpg?w=960&amp;h=540"/>
+    <premiere lang="en"/>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260915140000 +0000" stop="20260915153000 +0000">
+    <title lang="en">E1 Championship</title>
+    <category lang="en">Sports</category>
+    <category lang="en">Esports</category>
+    <category lang="en">Gaming</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20480171_b_h8_aa.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260915153000 +0000" stop="20260915160000 +0000">
+    <title lang="en">Watercross</title>
+    <desc lang="en">From Norman, OK.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Watersports</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11927280_b_h10_aa.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260915160000 +0000" stop="20260915170000 +0000">
+    <title lang="en">Fantasy Football Today</title>
+    <desc lang="en">CBS Sports fantasy football experts help with advice daily on who to start, who to sit and who to pick up.</desc>
+    <credits>
+      <actor>Jamey Eisenberg</actor>
+      <actor>Pete Prisco</actor>
+      <actor>Heath Cummings</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="en">Football</category>
+    <category lang="en">Sports talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15854547_b_h8_ae.jpg?w=960&amp;h=540"/>
+    <premiere lang="en"/>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260915170000 +0000" stop="20260915180000 +0000">
+    <title lang="en">College Basketball Talk</title>
+    <desc lang="en">All the latest college basketball news, featuring commentary, analysis and projections.</desc>
+    <date>2026</date>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32136073_b_h8_ab.jpg?w=960&amp;h=540"/>
+    <premiere lang="en"/>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260915180000 +0000" stop="20260915200000 +0000">
+    <title lang="en">CBS Sports HQ Spotlight</title>
+    <desc lang="en">Sports news and highlights.</desc>
+    <date>2023</date>
+    <category lang="en">Sports talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p23800264_b_h8_ac.jpg?w=960&amp;h=540"/>
+    <premiere lang="en"/>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260915200000 +0000" stop="20260915220000 +0000">
+    <title lang="en">CBS Sports HQ Spotlight</title>
+    <desc lang="en">Sports news and highlights.</desc>
+    <date>2023</date>
+    <category lang="en">Sports talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p23800264_b_h8_ac.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260915220000 +0000" stop="20260916010000 +0000">
+    <title lang="en">UFC Reloaded</title>
+    <desc lang="en">"UFC Reloaded" is a re-air of the biggest and most memorable UFC pay-per-view events in history. Of course, the fight results are history, too, but seeing the battles for the first time (or once again) is usually worth the wait, and it's free. The series also features footage that was never shown on the original PPV broadcast.</desc>
+    <category lang="en">Mixed martial arts</category>
+    <category lang="en">Classic Sport Event</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20418711_b_h10_aa.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260916010000 +0000" stop="20260916030000 +0000">
+    <title lang="en">Inside College Football</title>
+    <desc lang="en">Adam Zucker, Rick Neuheisel and Brian Jones discuss college football news and preview the SEC game of the week.</desc>
+    <credits>
+      <actor>Adam Zucker</actor>
+      <actor>Rick Neuheisel</actor>
+      <actor>Brian Jones</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="en">Football</category>
+    <icon src="http://dtil.tmsimg.com/assets/p8913117_b_h10_af.jpg?w=960&amp;h=540"/>
+    <premiere lang="en"/>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260916030000 +0000" stop="20260916060000 +0000">
+    <title lang="en">UFC Reloaded</title>
+    <desc lang="en">The replay of UFC pay-per-views and Fight Night events.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Mixed martial arts</category>
+    <category lang="en">Classic Sport Event</category>
+    <icon src="http://dtil.tmsimg.com/assets/p8969202_b_h8_ah.jpg?w=960&amp;h=540"/>
+    <episode-num system="onscreen">S14 E5</episode-num>
+    <premiere lang="en"/>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260916060000 +0000" stop="20260916080000 +0000">
+    <title lang="en">Inside College Football</title>
+    <desc lang="en">Adam Zucker, Rick Neuheisel and Brian Jones discuss college football news and preview the SEC game of the week.</desc>
+    <credits>
+      <actor>Adam Zucker</actor>
+      <actor>Rick Neuheisel</actor>
+      <actor>Brian Jones</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="en">Football</category>
+    <icon src="http://dtil.tmsimg.com/assets/p8913117_b_h10_af.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260916080000 +0000" stop="20260916100000 +0000">
+    <title lang="en">Inside College Football</title>
+    <desc lang="en">Adam Zucker, Rick Neuheisel and Brian Jones discuss college football news and preview the SEC game of the week.</desc>
+    <credits>
+      <actor>Adam Zucker</actor>
+      <actor>Rick Neuheisel</actor>
+      <actor>Brian Jones</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="en">Football</category>
+    <icon src="http://dtil.tmsimg.com/assets/p8913117_b_h10_af.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260916100000 +0000" stop="20260916140000 +0000">
+    <title lang="en">Live: Boomer and Gio</title>
+    <desc lang="en">CBS Sports Network simulcasts WFAN's "Boomer and Gio." Former NFL MVP Boomer Esiason and longtime radio personality Gregg Giannotti tackle the latest sports news and headlines.</desc>
+    <credits>
+      <actor>Boomer Esiason</actor>
+      <actor>Gregg Giannotti</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Sports talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14976231_b_h10_ac.jpg?w=960&amp;h=540"/>
+    <premiere lang="en"/>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260916140000 +0000" stop="20260916160000 +0000">
+    <title lang="en">Inside College Football</title>
+    <desc lang="en">Adam Zucker, Rick Neuheisel and Brian Jones discuss college football news and preview the SEC game of the week.</desc>
+    <credits>
+      <actor>Adam Zucker</actor>
+      <actor>Rick Neuheisel</actor>
+      <actor>Brian Jones</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="en">Football</category>
+    <icon src="http://dtil.tmsimg.com/assets/p8913117_b_h10_af.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260916160000 +0000" stop="20260916170000 +0000">
+    <title lang="en">UEFA Europa League Today</title>
+    <desc lang="en">Pre-match coverage of today's soccer contests.</desc>
+    <date>2020</date>
+    <category lang="en">Soccer</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18696366_b_h8_ac.jpg?w=960&amp;h=540"/>
+    <premiere lang="en"/>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260916170000 +0000" stop="20260916190000 +0000">
+    <title lang="en">Live: UEFA Europa League Soccer</title>
+    <desc lang="en">From New GSP Stadium in Nicosia, Lefkosia, Cyprus.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG003JECQD.jpg?w=960&amp;h=540"/>
+    <premiere lang="en"/>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260916190000 +0000" stop="20260916210000 +0000">
+    <title lang="en">Live: UEFA Europa League Soccer</title>
+    <desc lang="en">From Stadio Giuseppe Meazza in Milan, Lombardy, Italy.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG003JETT4.jpg?w=960&amp;h=540"/>
+    <premiere lang="en"/>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260916210000 +0000" stop="20260916213000 +0000">
+    <title lang="en">UEFA Europa League Post Match Show</title>
+    <desc lang="en">Highlights and analysis of the day's matchups.</desc>
+    <date>2020</date>
+    <category lang="en">Soccer</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18696380_b_h10_ae.jpg?w=960&amp;h=540"/>
+    <premiere lang="en"/>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260916213000 +0000" stop="20260916223000 +0000">
+    <title lang="en">We Need to Talk</title>
+    <desc lang="en">WE NEED TO TALK offers a unique take on the world of sports through the eyes of some of the most influential women in the business. The roster of commentators on this award-winning program includes prominent sports broadcasters Tracy Wolfson, Dana Jacobson, Tina Cervasio, Sarah Kustok, AJ Ross and Jenny Dell; accomplished journalists Lesley Visser, Andrea Kremer, and Aditi Kinkhabwala; pioneering executives Katrina Adams and Amy Trask; and elite athletes Lisa Leslie, Swin Cash, Summer Sanders, Dara Torres, and Renee Montgomery.</desc>
+    <date>2014</date>
+    <category lang="en">Sports talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11093858_b_h10_ab.jpg?w=960&amp;h=540"/>
+    <premiere lang="en"/>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260916223000 +0000" stop="20260916230000 +0000">
+    <title lang="en">CBS Sports Golazo Matchday</title>
+    <date>2024</date>
+    <category lang="en">Soccer</category>
+    <icon src="http://dtil.tmsimg.com/assets/p26681750_b_h10_ac.jpg?w=960&amp;h=540"/>
+    <premiere lang="en"/>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260916230000 +0000" stop="20260917010000 +0000">
+    <title lang="en">Live: U.S. Open Cup Soccer</title>
+    <desc lang="en">From ScottsMiracle-Gro Field in Columbus, Ohio.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG003C4CYQ.jpg?w=960&amp;h=540"/>
+    <premiere lang="en"/>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260917010000 +0000" stop="20260917013000 +0000">
+    <title lang="en">CBS Sports Golazo Matchday</title>
+    <date>2024</date>
+    <category lang="en">Soccer</category>
+    <icon src="http://dtil.tmsimg.com/assets/p26681750_b_h10_ac.jpg?w=960&amp;h=540"/>
+    <premiere lang="en"/>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260917013000 +0000" stop="20260917033000 +0000">
+    <title lang="en">Live: U.S. Open Cup Soccer</title>
+    <desc lang="en">From Dick's Sporting Goods Park in Commerce City, Colo.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG003C4CK1.jpg?w=960&amp;h=540"/>
+    <premiere lang="en"/>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260917033000 +0000" stop="20260917040000 +0000">
+    <title lang="en">CBS Sports Golazo Matchday</title>
+    <date>2024</date>
+    <category lang="en">Soccer</category>
+    <icon src="http://dtil.tmsimg.com/assets/p26681750_b_h10_ac.jpg?w=960&amp;h=540"/>
+    <premiere lang="en"/>
+  </programme>
+  
+
+<programme channel="CBS.Sports.Network.HD.us2" start="20260917040000 +0000" stop="20260917070000 +0000">
+    <title lang="en">UFC Reloaded</title>
+    <desc lang="en">"UFC Reloaded" is a re-air of the biggest and most memorable UFC pay-per-view events in history. Of course, the fight results are history, too, but seeing the battles for the first time (or once again) is usually worth the wait, and it's free. The series also features footage that was never shown on the original PPV broadcast.</desc>
+    <category lang="en">Mixed martial arts</category>
+    <category lang="en">Classic Sport Event</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20418711_b_h10_aa.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+  </programme>
+  
+
+<programme channel="cnn.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="co.colorado.springs.univision.kvsn" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="co.denver.pbs.kbdi" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="co.rocky.mountain.pbs.kids" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="co.rocky.mountain.pbs.krma" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="comedy.central.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="comedy.central.west.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="comet.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="cooking.channel.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="court.tv.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="cozi.tv.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="destination.america.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="discovery.east.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="discovery.family.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="discovery.life.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="discovery.science.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="discovery.west.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="disney.channel.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="disney.channel.west.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="disney.junior.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="disney.junior.west.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="disney.xd.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="disney.xd.west.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="espn.2.fhd.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="espn.2.hd.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="espn.2.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="espn.deportes.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="espn.fhd.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="espn.hd.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="espn.news.fhd.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="espn.news.hd.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="espn.u.fhd.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="espn.u.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="espn.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="food.network.east.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="food.network.west.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="fox.21.kxrm.colorado.springs.hd.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="fox.31.kdvr.denver.hd.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="fox.business.network.hd.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="fox.business.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="fox.news.channel.hd.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="fox.sports.1.fhd.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="fox.sports.1.hd.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="fox.sports.2.fhd.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="fox.sports.2.hd.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="freeform.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="freeform.west.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="fx.east.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="fx.west.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="fxm.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="fxx.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="fxx.west.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="golf.channel.fhd.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="golf.channel.hd.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="grit.tv.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="gsn.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="gsn.west.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="hallmark.channel.east.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="hallmark.family.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="hallmark.mystery.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="hallmark.west.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="hgtv.east.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="hgtv.west.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="history.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="history.west.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="investigation.discovery.hd.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="investigation.discovery.west.hd.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="ion.television.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="ion.television.west.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="lifetime.east.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="lifetime.movie.east.lmn.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="lifetime.movie.west.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="lifetime.west.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="magnolia.network.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="metv.network.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="mlb.colorado.rockies" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="mlb.network" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="mlb.network.hd.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="mtv.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="mtv.west.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="nat.geo.east.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="nat.geo.hd.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="nat.geo.west.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="nat.geo.wild.east.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="nat.geo.wild.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="nba.denver.nuggets.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="nba.tv.fhd.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="nbc.9.kusa.denver.hd.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme start="20260913000000 +0000" stop="20260913002900 +0000" channel="Newsmax.us">
+    <title lang="en">Rob Carson's What in the World</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658768432689.png"/>
+  </programme>
+  
+
+<programme start="20260913003000 +0000" stop="20260913005900 +0000" channel="Newsmax.us">
+    <title lang="en">Diamond and Silk</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658423266600.png"/>
+  </programme>
+  
+
+<programme start="20260913010000 +0000" stop="20260913015900 +0000" channel="Newsmax.us">
+    <title lang="en">The Benny Report</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658417589296.png"/>
+  </programme>
+  
+
+<programme start="20260913020000 +0000" stop="20260913022900 +0000" channel="Newsmax.us">
+    <title lang="en">Wise Guys w/John Tabacco</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658775838698.png"/>
+  </programme>
+  
+
+<programme start="20260913023000 +0000" stop="20260913105900 +0000" channel="Newsmax.us">
+    <title lang="en">Newsmax</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658417640593.png"/>
+  </programme>
+  
+
+<programme start="20260913110000 +0000" stop="20260913135900 +0000" channel="Newsmax.us">
+    <title lang="en">Wake Up America Weekend</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658420989264.png"/>
+  </programme>
+  
+
+<programme start="20260913140000 +0000" stop="20260913145900 +0000" channel="Newsmax.us">
+    <title lang="en">New to the Street</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658423926141.png"/>
+  </programme>
+  
+
+<programme start="20260913150000 +0000" stop="20260913155900 +0000" channel="Newsmax.us">
+    <title lang="en">The Benny Report</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658417589296.png"/>
+  </programme>
+  
+
+<programme start="20260913160000 +0000" stop="20260913165900 +0000" channel="Newsmax.us">
+    <title lang="en">Huckabee</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658424014740.png"/>
+  </programme>
+  
+
+<programme start="20260913170000 +0000" stop="20260913172900 +0000" channel="Newsmax.us">
+    <title lang="en">Dick Morris Democracy</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658423148183.png"/>
+  </programme>
+  
+
+<programme start="20260913173000 +0000" stop="20260913175900 +0000" channel="Newsmax.us">
+    <title lang="en">Conversations w/Nancy Brinker</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658424100855.png"/>
+  </programme>
+  
+
+<programme start="20260913180000 +0000" stop="20260913182900 +0000" channel="Newsmax.us">
+    <title lang="en">Rob Carson's What in the World</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658768432689.png"/>
+  </programme>
+  
+
+<programme start="20260913183000 +0000" stop="20260913185900 +0000" channel="Newsmax.us">
+    <title lang="en">Newsmax News In Depth</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658424171817.png"/>
+  </programme>
+  
+
+<programme start="20260913190000 +0000" stop="20260913192900 +0000" channel="Newsmax.us">
+    <title lang="en">Wise Guys w/John Tabacco</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658775838698.png"/>
+  </programme>
+  
+
+<programme start="20260913193000 +0000" stop="20260913195900 +0000" channel="Newsmax.us">
+    <title lang="en">Wendy Bell Common Sense</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658416835019.png"/>
+  </programme>
+  
+
+<programme start="20260913200000 +0000" stop="20260913205900 +0000" channel="Newsmax.us">
+    <title lang="en">Newsmax</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658417640593.png"/>
+  </programme>
+  
+
+<programme start="20260913210000 +0000" stop="20260913215900 +0000" channel="Newsmax.us">
+    <title lang="en">Greg Kelly This Week</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658422147180.png"/>
+  </programme>
+  
+
+<programme start="20260913220000 +0000" stop="20260913222900 +0000" channel="Newsmax.us">
+    <title lang="en">The Mark Kaye Show</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658423095258.png"/>
+  </programme>
+  
+
+<programme start="20260913223000 +0000" stop="20260913225900 +0000" channel="Newsmax.us">
+    <title lang="en">Newsmax News In Depth</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658424171817.png"/>
+  </programme>
+  
+
+<programme start="20260913230000 +0000" stop="20260913235900 +0000" channel="Newsmax.us">
+    <title lang="en">The Gorka Reality Check</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658424778843.png"/>
+  </programme>
+  
+
+<programme start="20260914000000 +0000" stop="20260914015900 +0000" channel="Newsmax.us">
+    <title lang="en">Newsmax</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658417640593.png"/>
+  </programme>
+  
+
+<programme start="20260914020000 +0000" stop="20260914025900 +0000" channel="Newsmax.us">
+    <title lang="en">The Gorka Reality Check</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658424778843.png"/>
+  </programme>
+  
+
+<programme start="20260914030000 +0000" stop="20260914035900 +0000" channel="Newsmax.us">
+    <title lang="en">Newsmax</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658417640593.png"/>
+  </programme>
+  
+
+<programme start="20260914040000 +0000" stop="20260914045900 +0000" channel="Newsmax.us">
+    <title lang="en">Eric Bolling: The Balance</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658415995901.png"/>
+  </programme>
+  
+
+<programme start="20260914050000 +0000" stop="20260914055900 +0000" channel="Newsmax.us">
+    <title lang="en">The Record w/Greta Van Susteren</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658415639781.png"/>
+  </programme>
+  
+
+<programme start="20260914060000 +0000" stop="20260914065900 +0000" channel="Newsmax.us">
+    <title lang="en">Greg Kelly Reports</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658416230889.png"/>
+  </programme>
+  
+
+<programme start="20260914070000 +0000" stop="20260914072900 +0000" channel="Newsmax.us">
+    <title lang="en">Wendy Bell Common Sense</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658416835019.png"/>
+  </programme>
+  
+
+<programme start="20260914073000 +0000" stop="20260914075900 +0000" channel="Newsmax.us">
+    <title lang="en">Rob Carson's What in the World</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658768432689.png"/>
+  </programme>
+  
+
+<programme start="20260914080000 +0000" stop="20260914085900 +0000" channel="Newsmax.us">
+    <title lang="en">The Benny Report</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658417589296.png"/>
+  </programme>
+  
+
+<programme start="20260914090000 +0000" stop="20260914095900 +0000" channel="Newsmax.us">
+    <title lang="en">Newsmax</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658417640593.png"/>
+  </programme>
+  
+
+<programme start="20260914100000 +0000" stop="20260914125900 +0000" channel="Newsmax.us">
+    <title lang="en">Wake Up America</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658410157819.png"/>
+  </programme>
+  
+
+<programme start="20260914130000 +0000" stop="20260914155900 +0000" channel="Newsmax.us">
+    <title lang="en">National Report</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658411596821.png"/>
+  </programme>
+  
+
+<programme start="20260914160000 +0000" stop="20260914175900 +0000" channel="Newsmax.us">
+    <title lang="en">John Bachman Now</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658413589142.png"/>
+  </programme>
+  
+
+<programme start="20260914180000 +0000" stop="20260914195900 +0000" channel="Newsmax.us">
+    <title lang="en">American Agenda</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658413652441.png"/>
+  </programme>
+  
+
+<programme start="20260914200000 +0000" stop="20260914205900 +0000" channel="Newsmax.us">
+    <title lang="en">The Chris Salcedo Show</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658775506736.png"/>
+  </programme>
+  
+
+<programme start="20260914210000 +0000" stop="20260914215900 +0000" channel="Newsmax.us">
+    <title lang="en">Carl Higbie Frontlline</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658415530716.png"/>
+  </programme>
+  
+
+<programme start="20260914220000 +0000" stop="20260914225900 +0000" channel="Newsmax.us">
+    <title lang="en">The Record w/Greta Van Susteren</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658415639781.png"/>
+  </programme>
+  
+
+<programme start="20260914230000 +0000" stop="20260914235900 +0000" channel="Newsmax.us">
+    <title lang="en">Rob Schmitt Tonight</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658415710866.png"/>
+  </programme>
+  
+
+<programme start="20260915000000 +0000" stop="20260915005900 +0000" channel="Newsmax.us">
+    <title lang="en">Eric Bolling: The Balance</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658415995901.png"/>
+  </programme>
+  
+
+<programme start="20260915010000 +0000" stop="20260915015900 +0000" channel="Newsmax.us">
+    <title lang="en">Chris Plante The Right Squad</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658416119140.png"/>
+  </programme>
+  
+
+<programme start="20260915020000 +0000" stop="20260915025900 +0000" channel="Newsmax.us">
+    <title lang="en">Greg Kelly Reports</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658416230889.png"/>
+  </programme>
+  
+
+<programme start="20260915030000 +0000" stop="20260915035900 +0000" channel="Newsmax.us">
+    <title lang="en">Rob Schmitt Tonight</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658415710866.png"/>
+  </programme>
+  
+
+<programme start="20260915040000 +0000" stop="20260915045900 +0000" channel="Newsmax.us">
+    <title lang="en">Eric Bolling: The Balance</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658415995901.png"/>
+  </programme>
+  
+
+<programme start="20260915050000 +0000" stop="20260915055900 +0000" channel="Newsmax.us">
+    <title lang="en">The Record w/Greta Van Susteren</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658415639781.png"/>
+  </programme>
+  
+
+<programme start="20260915060000 +0000" stop="20260915065900 +0000" channel="Newsmax.us">
+    <title lang="en">Greg Kelly Reports</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658416230889.png"/>
+  </programme>
+  
+
+<programme start="20260915070000 +0000" stop="20260915075900 +0000" channel="Newsmax.us">
+    <title lang="en">The Chris Salcedo Show</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658775506736.png"/>
+  </programme>
+  
+
+<programme start="20260915080000 +0000" stop="20260915085900 +0000" channel="Newsmax.us">
+    <title lang="en">Newsmax</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658417640593.png"/>
+  </programme>
+  
+
+<programme start="20260915090000 +0000" stop="20260915095900 +0000" channel="Newsmax.us">
+    <title lang="en">Newsmax</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658417640593.png"/>
+  </programme>
+  
+
+<programme start="20260915100000 +0000" stop="20260915125900 +0000" channel="Newsmax.us">
+    <title lang="en">Wake Up America</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658410157819.png"/>
+  </programme>
+  
+
+<programme start="20260915130000 +0000" stop="20260915155900 +0000" channel="Newsmax.us">
+    <title lang="en">National Report</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658411596821.png"/>
+  </programme>
+  
+
+<programme start="20260915160000 +0000" stop="20260915175900 +0000" channel="Newsmax.us">
+    <title lang="en">John Bachman Now</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658413589142.png"/>
+  </programme>
+  
+
+<programme start="20260915180000 +0000" stop="20260915195900 +0000" channel="Newsmax.us">
+    <title lang="en">American Agenda</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658413652441.png"/>
+  </programme>
+  
+
+<programme start="20260915200000 +0000" stop="20260915205900 +0000" channel="Newsmax.us">
+    <title lang="en">The Chris Salcedo Show</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658775506736.png"/>
+  </programme>
+  
+
+<programme start="20260915210000 +0000" stop="20260915215900 +0000" channel="Newsmax.us">
+    <title lang="en">Carl Higbie Frontlline</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658415530716.png"/>
+  </programme>
+  
+
+<programme start="20260915220000 +0000" stop="20260915225900 +0000" channel="Newsmax.us">
+    <title lang="en">The Record w/Greta Van Susteren</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658415639781.png"/>
+  </programme>
+  
+
+<programme start="20260915230000 +0000" stop="20260915235900 +0000" channel="Newsmax.us">
+    <title lang="en">Rob Schmitt Tonight</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658415710866.png"/>
+  </programme>
+  
+
+<programme start="20260916000000 +0000" stop="20260916005900 +0000" channel="Newsmax.us">
+    <title lang="en">Eric Bolling: The Balance</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658415995901.png"/>
+  </programme>
+  
+
+<programme start="20260916010000 +0000" stop="20260916015900 +0000" channel="Newsmax.us">
+    <title lang="en">Chris Plante The Right Squad</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658416119140.png"/>
+  </programme>
+  
+
+<programme start="20260916020000 +0000" stop="20260916025900 +0000" channel="Newsmax.us">
+    <title lang="en">Greg Kelly Reports</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658416230889.png"/>
+  </programme>
+  
+
+<programme start="20260916030000 +0000" stop="20260916035900 +0000" channel="Newsmax.us">
+    <title lang="en">Rob Schmitt Tonight</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658415710866.png"/>
+  </programme>
+  
+
+<programme start="20260916040000 +0000" stop="20260916045900 +0000" channel="Newsmax.us">
+    <title lang="en">Eric Bolling: The Balance</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658415995901.png"/>
+  </programme>
+  
+
+<programme start="20260916050000 +0000" stop="20260916055900 +0000" channel="Newsmax.us">
+    <title lang="en">The Record w/Greta Van Susteren</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658415639781.png"/>
+  </programme>
+  
+
+<programme start="20260916060000 +0000" stop="20260916065900 +0000" channel="Newsmax.us">
+    <title lang="en">Greg Kelly Reports</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658416230889.png"/>
+  </programme>
+  
+
+<programme start="20260916070000 +0000" stop="20260916075900 +0000" channel="Newsmax.us">
+    <title lang="en">The Chris Salcedo Show</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658775506736.png"/>
+  </programme>
+  
+
+<programme start="20260916080000 +0000" stop="20260916085900 +0000" channel="Newsmax.us">
+    <title lang="en">Newsmax</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658417640593.png"/>
+  </programme>
+  
+
+<programme start="20260916090000 +0000" stop="20260916095900 +0000" channel="Newsmax.us">
+    <title lang="en">Newsmax</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658417640593.png"/>
+  </programme>
+  
+
+<programme start="20260916100000 +0000" stop="20260916125900 +0000" channel="Newsmax.us">
+    <title lang="en">Wake Up America</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658410157819.png"/>
+  </programme>
+  
+
+<programme start="20260916130000 +0000" stop="20260916155900 +0000" channel="Newsmax.us">
+    <title lang="en">National Report</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658411596821.png"/>
+  </programme>
+  
+
+<programme start="20260916160000 +0000" stop="20260916175900 +0000" channel="Newsmax.us">
+    <title lang="en">John Bachman Now</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658413589142.png"/>
+  </programme>
+  
+
+<programme start="20260916180000 +0000" stop="20260916195900 +0000" channel="Newsmax.us">
+    <title lang="en">American Agenda</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658413652441.png"/>
+  </programme>
+  
+
+<programme start="20260916200000 +0000" stop="20260916205900 +0000" channel="Newsmax.us">
+    <title lang="en">The Chris Salcedo Show</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658775506736.png"/>
+  </programme>
+  
+
+<programme start="20260916210000 +0000" stop="20260916215900 +0000" channel="Newsmax.us">
+    <title lang="en">Carl Higbie Frontlline</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658415530716.png"/>
+  </programme>
+  
+
+<programme start="20260916220000 +0000" stop="20260916225900 +0000" channel="Newsmax.us">
+    <title lang="en">The Record w/Greta Van Susteren</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658415639781.png"/>
+  </programme>
+  
+
+<programme start="20260916230000 +0000" stop="20260916235900 +0000" channel="Newsmax.us">
+    <title lang="en">Rob Schmitt Tonight</title>
+    <category lang="en">News/Talk</category>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/nmx-1658415710866.png"/>
+  </programme>
+  
+
+<programme start="20260911030000 +0000" stop="20260911040000 +0000" channel="Newsmax.us">
+    <title lang="en">Rob Schmitt Tonight</title>
+    <desc lang="en">Rob Schmitt wraps up all the latest news and opinion, and sets the stage for the next day.</desc>
+  </programme>
+  
+
+<programme start="20260911040000 +0000" stop="20260911050000 +0000" channel="Newsmax.us">
+    <title lang="en">Finnerty</title>
+    <desc lang="en">Rob Finnerty gives straight talk on the biggest issues facing America and the world!</desc>
+  </programme>
+  
+
+<programme start="20260911050000 +0000" stop="20260911060000 +0000" channel="Newsmax.us">
+    <title lang="en">Carl Higbie Frontline</title>
+    <desc lang="en">Carl Higbie gives news analysis as he fights for American values.</desc>
+  </programme>
+  
+
+<programme start="20260911060000 +0000" stop="20260911070000 +0000" channel="Newsmax.us">
+    <title lang="en">Greg Kelly Reports</title>
+    <desc lang="en">Greg Kelly gives hardest-hitting reports and analysis from L.A. to N.Y., from Beltway to Rust Belt.</desc>
+  </programme>
+  
+
+<programme start="20260911070000 +0000" stop="20260911080000 +0000" channel="Newsmax.us">
+    <title lang="en">David Harris Jr. The Pulse</title>
+    <desc lang="en">Hard-hitting analysis and opinion on the latest news and events delivered.</desc>
+  </programme>
+  
+
+<programme start="20260911080000 +0000" stop="20260911090000 +0000" channel="Newsmax.us">
+    <title lang="en">Ed Henry The Big Take</title>
+    <desc lang="en">Ed Henry offers his common-sense take on the news.</desc>
+  </programme>
+  
+
+<programme start="20260911090000 +0000" stop="20260911100000 +0000" channel="Newsmax.us">
+    <title lang="en">9/11: The Day That Shook the World</title>
+    <desc lang="en">Marking the 20th anniversary of the deadliest terrorist attack in U.S. history.</desc>
+  </programme>
+  
+
+<programme start="20260911100000 +0000" stop="20260911130000 +0000" channel="Newsmax.us">
+    <title lang="en">Wake Up America: 9/11 Special Coverage</title>
+    <desc lang="en">Sharla McBride and Marc Lotter anchor this special remembrance of this poignant moment in our American history. LIVE coverage, special guests, personal moments, and historical videos appropriately capture the 25th anniversary events.</desc>
+  </programme>
+  
+
+<programme start="20260911130000 +0000" stop="20260911160000 +0000" channel="Newsmax.us">
+    <title lang="en">National Report</title>
+    <desc lang="en">Your source for up-to-the-minute breaking news; the way to stay informed with eye-opening coverage.</desc>
+  </programme>
+  
+
+<programme start="20260911160000 +0000" stop="20260911180000 +0000" channel="Newsmax.us">
+    <title lang="en">Bianca Across The Nation</title>
+    <desc lang="en">Bianca de la Garza tackles the big news from D.C., N.Y., across America, and around the world!</desc>
+  </programme>
+  
+
+<programme start="20260911180000 +0000" stop="20260911190000 +0000" channel="Newsmax.us">
+    <title lang="en">American Agenda</title>
+    <desc lang="en">Bob Brooks and Katrina Szish present news and analysis.</desc>
+  </programme>
+  
+
+<programme start="20260911190000 +0000" stop="20260911200000 +0000" channel="Newsmax.us">
+    <title lang="en">The Call to Serve: 25 Years After 9/11</title>
+    <desc lang="en">Twenty-five years after 9\/11, Newsmax and the Wounded Warrior Project revisit the stories of eight veterans who answered the call to serve and returned home with physical and mental challenges.</desc>
+  </programme>
+  
+
+<programme start="20260911200000 +0000" stop="20260911210000 +0000" channel="Newsmax.us">
+    <title lang="en">The Record with Greta Van Susteren</title>
+    <desc lang="en">Greta Van Susteren gives the big news across America and around the world.</desc>
+  </programme>
+  
+
+<programme start="20260911210000 +0000" stop="20260911220000 +0000" channel="Newsmax.us">
+    <title lang="en">Ed Henry The Big Take</title>
+    <desc lang="en">Ed Henry offers his common-sense take on the news.</desc>
+  </programme>
+  
+
+<programme start="20260911220000 +0000" stop="20260911230000 +0000" channel="Newsmax.us">
+    <title lang="en">Carl Higbie Frontline</title>
+    <desc lang="en">Carl Higbie gives news analysis as he fights for American values.</desc>
+  </programme>
+  
+
+<programme start="20260911230000 +0000" stop="20260912000000 +0000" channel="Newsmax.us">
+    <title lang="en">Rob Schmitt Tonight</title>
+    <desc lang="en">Rob Schmitt wraps up all the latest news and opinion, and sets the stage for the next day.</desc>
+  </programme>
+  
+
+<programme start="20260912000000 +0000" stop="20260912010000 +0000" channel="Newsmax.us">
+    <title lang="en">Finnerty</title>
+    <desc lang="en">Rob Finnerty gives straight talk on the biggest issues facing America and the world!</desc>
+  </programme>
+  
+
+<programme start="20260912010000 +0000" stop="20260912020000 +0000" channel="Newsmax.us">
+    <title lang="en">Greg Kelly Reports</title>
+    <desc lang="en">Greg Kelly gives hardest-hitting reports and analysis from L.A. to N.Y., from Beltway to Rust Belt.</desc>
+  </programme>
+  
+
+<programme start="20260912020000 +0000" stop="20260912023000 +0000" channel="Newsmax.us">
+    <title lang="en">A Day That Changed Our Lives Forever</title>
+    <desc lang="en">Twenty-five years after 9\/11, four survivors share their harrowing stories. See how gut instinct, split-second decisions, and desperate prayers helped them face the unthinkable. Franklin Graham hosts.</desc>
+  </programme>
+  
+
+<programme start="20260912023000 +0000" stop="20260912030000 +0000" channel="Newsmax.us">
+    <title lang="en">Newsfront</title>
+    <desc lang="en">Innocent lives are being destroyed by rogue prosecutors and a well-funded, radical movement.</desc>
+  </programme>
+  
+
+<programme start="20260912030000 +0000" stop="20260912040000 +0000" channel="Newsmax.us">
+    <title lang="en">Rob Schmitt Tonight</title>
+    <desc lang="en">Rob Schmitt wraps up all the latest news and opinion, and sets the stage for the next day.</desc>
+  </programme>
+  
+
+<programme start="20260912040000 +0000" stop="20260912050000 +0000" channel="Newsmax.us">
+    <title lang="en">Finnerty</title>
+    <desc lang="en">Rob Finnerty gives straight talk on the biggest issues facing America and the world!</desc>
+  </programme>
+  
+
+<programme start="20260912050000 +0000" stop="20260912060000 +0000" channel="Newsmax.us">
+    <title lang="en">Carl Higbie Frontline</title>
+    <desc lang="en">Carl Higbie gives news analysis as he fights for American values.</desc>
+  </programme>
+  
+
+<programme start="20260912060000 +0000" stop="20260912070000 +0000" channel="Newsmax.us">
+    <title lang="en">Greg Kelly Reports</title>
+    <desc lang="en">Greg Kelly gives hardest-hitting reports and analysis from L.A. to N.Y., from Beltway to Rust Belt.</desc>
+  </programme>
+  
+
+<programme start="20260912070000 +0000" stop="20260912080000 +0000" channel="Newsmax.us">
+    <title lang="en">David Harris Jr. The Pulse</title>
+    <desc lang="en">Hard-hitting analysis and opinion on the latest news and events delivered.</desc>
+  </programme>
+  
+
+<programme start="20260912080000 +0000" stop="20260912090000 +0000" channel="Newsmax.us">
+    <title lang="en">Ed Henry The Big Take</title>
+    <desc lang="en">Ed Henry offers his common-sense take on the news.</desc>
+  </programme>
+  
+
+<programme start="20260912090000 +0000" stop="20260912093000 +0000" channel="Newsmax.us">
+    <title lang="en">Caught on Bodycam</title>
+    <desc lang="en">Sometimes law officers' jobs are made easier by their trained dogs. See situations where officers come upon animals, and how their dogs can be of assistance.</desc>
+  </programme>
+  
+
+<programme start="20260912093000 +0000" stop="20260912100000 +0000" channel="Newsmax.us">
+    <title lang="en">Caught on Bodycam</title>
+    <desc lang="en">Encounters with volatile individuals, in which interventions escalate into dangerous situations.</desc>
+  </programme>
+  
+
+<programme start="20260912100000 +0000" stop="20260912103000 +0000" channel="Newsmax.us">
+    <title lang="en">Newsfront</title>
+    <desc lang="en">Russia and China combined may have twice as many nuclear weapons as the United States within a decade. The United States must modernize its aging nuclear arsenal.</desc>
+  </programme>
+  
+
+<programme start="20260912103000 +0000" stop="20260912110000 +0000" channel="Newsmax.us">
+    <title lang="en">The World Seen From the Vatican</title>
+    <desc lang="en">All the latest news about Pope, the Vatican, and other related social and political issues.</desc>
+  </programme>
+  
+
+<programme start="20260912110000 +0000" stop="20260912130000 +0000" channel="Newsmax.us">
+    <title lang="en">Wake Up America Weekend</title>
+    <desc lang="en">Wake up smarter with Kyle Lowder and Kenzie Beach as they deliver the latest headlines, insightful analysis, and lively discussion to keep you ahead of the day's biggest stories.</desc>
+  </programme>
+  
+
+<programme start="20260912130000 +0000" stop="20260912150000 +0000" channel="Newsmax.us">
+    <title lang="en">America Right Now</title>
+    <desc lang="en">Tom Basile tackles the week's biggest stories.</desc>
+  </programme>
+  
+
+<programme start="20260912150000 +0000" stop="20260912160000 +0000" channel="Newsmax.us">
+    <title lang="en">Troopathon 2026</title>
+    <desc lang="en">Troopathon Special - care packages for our troops -- with top celebs!</desc>
+  </programme>
+  
+
+<programme start="20260912160000 +0000" stop="20260912170000 +0000" channel="Newsmax.us">
+    <title lang="en">Saturday Report</title>
+    <desc lang="en">Rita Cosby tackles the big headlines with smart analysis from top experts.</desc>
+  </programme>
+  
+
+<programme start="20260912170000 +0000" stop="20260912190000 +0000" channel="Newsmax.us">
+    <title lang="en">Saturday Agenda</title>
+    <desc lang="en">Rob Astorino reveals Washington's inner workings and the fight for core values.</desc>
+  </programme>
+  
+
+<programme start="20260912190000 +0000" stop="20260912193000 +0000" channel="Newsmax.us">
+    <title lang="en">Rob Carson's What in the World?</title>
+    <desc lang="en">Rob Carson dissects politics, cultural phenomena and the absurdity confronting America with humor.</desc>
+  </programme>
+  
+
+<programme start="20260912193000 +0000" stop="20260912200000 +0000" channel="Newsmax.us">
+    <title lang="en">Israel Now</title>
+    <desc lang="en">Featuring interviews with Israeli officials, religious leaders, local entrepreneurs and others.</desc>
+  </programme>
+  
+
+<programme start="20260912200000 +0000" stop="20260912210000 +0000" channel="Newsmax.us">
+    <title lang="en">Greg Kelly This Week</title>
+    <desc lang="en">Greg Kelly provides hard-hitting reports and analysis.</desc>
+  </programme>
+  
+
+<programme start="20260912210000 +0000" stop="20260912230000 +0000" channel="Newsmax.us">
+    <title lang="en">The Count</title>
+    <desc lang="en">Lidia Curanaj counts up the top stories of the week, while offering analysis by experts.</desc>
+  </programme>
+  
+
+<programme start="20260912230000 +0000" stop="20260913000000 +0000" channel="Newsmax.us">
+    <title lang="en">Carl Higbie This Week</title>
+    <desc lang="en">Carl Higbie exposes government and media bias as he fights for American values.</desc>
+  </programme>
+  
+
+<programme start="20260913000000 +0000" stop="20260913010000 +0000" channel="Newsmax.us">
+    <title lang="en">David Harris Jr. The Pulse</title>
+    <desc lang="en">Hard-hitting analysis and opinion on the latest news and events delivered.</desc>
+  </programme>
+  
+
+<programme start="20260913010000 +0000" stop="20260913020000 +0000" channel="Newsmax.us">
+    <title lang="en">Wise Guys With John Tabacco</title>
+    <desc lang="en">John Tabacco and his crew look at the big issues and shine a light on hypocrisy.</desc>
+  </programme>
+  
+
+<programme start="20260913020000 +0000" stop="20260913030000 +0000" channel="Newsmax.us">
+    <title lang="en">Ed Henry The Big Take Weekly</title>
+    <desc lang="en">Ed Henry offers his common-sense take, helping viewers understand the details of the stories.</desc>
+  </programme>
+  
+
+<programme start="20260913030000 +0000" stop="20260913040000 +0000" channel="Newsmax.us">
+    <title lang="en">The Call to Serve: 25 Years After 9/11</title>
+    <desc lang="en">Twenty-five years after 9\/11, Newsmax and the Wounded Warrior Project revisit the stories of eight veterans who answered the call to serve and returned home with physical and mental challenges.</desc>
+  </programme>
+  
+
+<programme start="20260913040000 +0000" stop="20260913050000 +0000" channel="Newsmax.us">
+    <title lang="en">Lee Greenwood: God Bless the USA!</title>
+    <desc lang="en">Celebrities pay tribute to Lee Greenwood and his \"God Bless the USA,\" in an exclusive interview.</desc>
+  </programme>
+  
+
+<programme start="20260913050000 +0000" stop="20260913060000 +0000" channel="Newsmax.us">
+    <title lang="en">Jimmy Stewart: A Wonderful American Life</title>
+    <desc lang="en">The life and career of legendary actor Jimmy Stewart.</desc>
+  </programme>
+  
+
+<programme start="20260913060000 +0000" stop="20260913070000 +0000" channel="Newsmax.us">
+    <title lang="en">The Dean Martin Celebrity Roasts: Michael Landon</title>
+    <desc lang="en">Classic celebrity roast of Michael Landon.</desc>
+  </programme>
+  
+
+<programme start="20260913070000 +0000" stop="20260913080000 +0000" channel="Newsmax.us">
+    <title lang="en">The Dean Martin Celebrity Roast: Jack Klugman</title>
+    <desc lang="en">From the MGM Grand Hotel's Ziegfeld Room in Las Vegas.</desc>
+  </programme>
+  
+
+<programme start="20260913080000 +0000" stop="20260913090000 +0000" channel="Newsmax.us">
+    <title lang="en">Biblical Prophecy: The End Times</title>
+    <desc lang="en">Bible experts explore how major world events are reflective of Christian and Jewish eschatology.</desc>
+  </programme>
+  
+
+<programme start="20260913090000 +0000" stop="20260913093000 +0000" channel="Newsmax.us">
+    <title lang="en">The World Seen From the Vatican</title>
+    <desc lang="en">All the latest news about Pope, the Vatican, and other related social and political issues.</desc>
+  </programme>
+  
+
+<programme start="20260913093000 +0000" stop="20260913100000 +0000" channel="Newsmax.us">
+    <title lang="en">Israel Now</title>
+    <desc lang="en">Featuring interviews with Israeli officials, religious leaders, local entrepreneurs and others.</desc>
+  </programme>
+  
+
+<programme start="20260913100000 +0000" stop="20260913103000 +0000" channel="Newsmax.us">
+    <title lang="en">Allen Jackson</title>
+    <desc lang="en">Pastor Allen Jackson encourages you to stand firm by focusing on the Word of God.</desc>
+  </programme>
+  
+
+<programme start="20260913103000 +0000" stop="20260913110000 +0000" channel="Newsmax.us">
+    <title lang="en">Amazing Facts</title>
+    <desc lang="en">Bible study proclaims God's good news to the world.</desc>
+  </programme>
+  
+
+<programme start="20260913110000 +0000" stop="20260913140000 +0000" channel="Newsmax.us">
+    <title lang="en">Wake Up America Weekend</title>
+    <desc lang="en">Wake up smarter with Kyle Lowder and Kenzie Beach as they deliver the latest headlines, insightful analysis, and lively discussion to keep you ahead of the day's biggest stories.</desc>
+  </programme>
+  
+
+<programme start="20260913140000 +0000" stop="20260913160000 +0000" channel="Newsmax.us">
+    <title lang="en">Sunday Report</title>
+    <desc lang="en">Newsmax tackles the big headlines with smart analysis from top experts.</desc>
+  </programme>
+  
+
+<programme start="20260913160000 +0000" stop="20260913180000 +0000" channel="Newsmax.us">
+    <title lang="en">Sunday Agenda</title>
+    <desc lang="en">Lidia Curanaj reveals Washington's inner workings and the fight for core values.</desc>
+  </programme>
+  
+
+<programme start="20260913180000 +0000" stop="20260913190000 +0000" channel="Newsmax.us">
+    <title lang="en">The Record with Greta Van Susteren Weekly</title>
+    <desc lang="en">Greta Van Susteren gives the big news from D.C., N.Y., across America, and around the world.</desc>
+  </programme>
+  
+
+<programme start="20260913190000 +0000" stop="20260913193000 +0000" channel="Newsmax.us">
+    <title lang="en">Conversations With Nancy Brinker</title>
+    <desc lang="en">Nancy Brinker talks to some of the nation's most powerful and influential personalities.</desc>
+  </programme>
+  
+
+<programme start="20260913193000 +0000" stop="20260913200000 +0000" channel="Newsmax.us">
+    <title lang="en">Israel Now</title>
+    <desc lang="en">Featuring interviews with Israeli officials, religious leaders, local entrepreneurs and others.</desc>
+  </programme>
+  
+
+<programme start="20260913200000 +0000" stop="20260913210000 +0000" channel="Newsmax.us">
+    <title lang="en">The Call to Serve: 25 Years After 9/11</title>
+    <desc lang="en">Twenty-five years after 9\/11, Newsmax and the Wounded Warrior Project revisit the stories of eight veterans who answered the call to serve and returned home with physical and mental challenges.</desc>
+  </programme>
+  
+
+<programme start="20260913210000 +0000" stop="20260913220000 +0000" channel="Newsmax.us">
+    <title lang="en">Greg Kelly This Week</title>
+    <desc lang="en">Greg Kelly provides hard-hitting reports and analysis.</desc>
+  </programme>
+  
+
+<programme start="20260913220000 +0000" stop="20260913230000 +0000" channel="Newsmax.us">
+    <title lang="en">Ed Henry The Big Take Weekly</title>
+    <desc lang="en">Ed Henry offers his common-sense take, helping viewers understand the details of the stories.</desc>
+  </programme>
+  
+
+<programme start="20260913230000 +0000" stop="20260914000000 +0000" channel="Newsmax.us">
+    <title lang="en">Carl Higbie This Week</title>
+    <desc lang="en">Carl Higbie exposes government and media bias as he fights for American values.</desc>
+  </programme>
+  
+
+<programme start="20260914000000 +0000" stop="20260914003000 +0000" channel="Newsmax.us">
+    <title lang="en">A Day That Changed Our Lives Forever</title>
+    <desc lang="en">Twenty-five years after 9\/11, four survivors share their harrowing stories. See how gut instinct, split-second decisions, and desperate prayers helped them face the unthinkable. Franklin Graham hosts.</desc>
+  </programme>
+  
+
+<programme start="20260914003000 +0000" stop="20260914010000 +0000" channel="Newsmax.us">
+    <title lang="en">Rob Carson's What in the World?</title>
+    <desc lang="en">Rob Carson dissects politics, cultural phenomena and the absurdity confronting America with humor.</desc>
+  </programme>
+  
+
+<programme start="20260914010000 +0000" stop="20260914013000 +0000" channel="Newsmax.us">
+    <title lang="en">Newsfront</title>
+    <desc lang="en">NewsGuard is a for-profit company that rates the credibility of news and information websites, but critics accuse it of targeting conservative media outlets.</desc>
+  </programme>
+  
+
+<programme start="20260914013000 +0000" stop="20260914020000 +0000" channel="Newsmax.us">
+    <title lang="en">Newsfront</title>
+    <desc lang="en">The cultural Marxists are dividing Americans by using injustices to change the U.S. forever.</desc>
+  </programme>
+  
+
+<programme start="20260914020000 +0000" stop="20260914030000 +0000" channel="Newsmax.us">
+    <title lang="en">David Harris Jr. The Pulse</title>
+    <desc lang="en">Hard-hitting analysis and opinion on the latest news and events delivered.</desc>
+  </programme>
+  
+
+<programme start="20260914030000 +0000" stop="20260914033000 +0000" channel="Newsmax.us">
+    <title lang="en">Greg Kelly This Week</title>
+    <desc lang="en">Greg Kelly provides hard-hitting reports and analysis.</desc>
+  </programme>
+  
+
+<programme start="20260914033000 +0000" stop="20260914040000 +0000" channel="Newsmax.us">
+    <title lang="en">Israel Now</title>
+    <desc lang="en">Featuring interviews with Israeli officials, religious leaders, local entrepreneurs and others.</desc>
+  </programme>
+  
+
+<programme start="20260914040000 +0000" stop="20260914050000 +0000" channel="Newsmax.us">
+    <title lang="en">Wise Guys With John Tabacco</title>
+    <desc lang="en">John Tabacco and his crew look at the big issues and shine a light on hypocrisy.</desc>
+  </programme>
+  
+
+<programme start="20260914050000 +0000" stop="20260914060000 +0000" channel="Newsmax.us">
+    <title lang="en">Vision: Elon Musk's Story</title>
+    <desc lang="en">Taking a look at the story of Elon Musk, as he makes advances in technology, politics and more.</desc>
+  </programme>
+  
+
+<programme start="20260914060000 +0000" stop="20260914080000 +0000" channel="Newsmax.us">
+    <title lang="en">The Plot Against the President</title>
+    <desc lang="en">Filmmaker Amanda Milius examines evidence of a conspiracy to sabotage President Donald Trump.</desc>
+  </programme>
+  
+
+<programme start="20260914080000 +0000" stop="20260914090000 +0000" channel="Newsmax.us">
+    <title lang="en">Jackie O: A Remarkable Life</title>
+    <desc lang="en">Jacqueline Kennedy Onassis captivates the world as first lady with grace and elegance.</desc>
+  </programme>
+  
+
+<programme start="20260914090000 +0000" stop="20260914100000 +0000" channel="Newsmax.us">
+    <title lang="en">Dolly Parton: Big Hair, Bigger Heart</title>
+    <desc lang="en">Dolly carves out her own identity as a singer, composer, movie actress, and entrepreneur.</desc>
+  </programme>
+  
+
+<programme start="20260914100000 +0000" stop="20260914110000 +0000" channel="Newsmax.us">
+    <title lang="en">Wake Up America Early</title>
+    <desc lang="en">Presents news delivering key facts, expert insights, and in-depth analysis to kickstart your day.</desc>
+  </programme>
+  
+
+<programme start="20260914110000 +0000" stop="20260914130000 +0000" channel="Newsmax.us">
+    <title lang="en">Wake Up America</title>
+    <desc lang="en">Starting the day with real news and analysis.</desc>
+  </programme>
+  
+
+<programme start="20260914130000 +0000" stop="20260914160000 +0000" channel="Newsmax.us">
+    <title lang="en">National Report</title>
+    <desc lang="en">Your source for up-to-the-minute breaking news; the way to stay informed with eye-opening coverage.</desc>
+  </programme>
+  
+
+<programme start="20260914160000 +0000" stop="20260914180000 +0000" channel="Newsmax.us">
+    <title lang="en">Bianca Across The Nation</title>
+    <desc lang="en">Bianca de la Garza tackles the big news from D.C., N.Y., across America, and around the world!</desc>
+  </programme>
+  
+
+<programme start="20260914180000 +0000" stop="20260914200000 +0000" channel="Newsmax.us">
+    <title lang="en">American Agenda</title>
+    <desc lang="en">Bob Brooks and Katrina Szish present news and analysis.</desc>
+  </programme>
+  
+
+<programme start="20260914200000 +0000" stop="20260914210000 +0000" channel="Newsmax.us">
+    <title lang="en">The Record with Greta Van Susteren</title>
+    <desc lang="en">Greta Van Susteren gives the big news across America and around the world.</desc>
+  </programme>
+  
+
+<programme start="20260914210000 +0000" stop="20260914220000 +0000" channel="Newsmax.us">
+    <title lang="en">Ed Henry The Big Take</title>
+    <desc lang="en">Ed Henry offers his common-sense take on the news.</desc>
+  </programme>
+  
+
+<programme start="20260914220000 +0000" stop="20260914230000 +0000" channel="Newsmax.us">
+    <title lang="en">Carl Higbie Frontline</title>
+    <desc lang="en">Carl Higbie gives news analysis as he fights for American values.</desc>
+  </programme>
+  
+
+<programme start="20260914230000 +0000" stop="20260915000000 +0000" channel="Newsmax.us">
+    <title lang="en">Rob Schmitt Tonight</title>
+    <desc lang="en">Rob Schmitt wraps up all the latest news and opinion, and sets the stage for the next day.</desc>
+  </programme>
+  
+
+<programme start="20260915000000 +0000" stop="20260915010000 +0000" channel="Newsmax.us">
+    <title lang="en">Finnerty</title>
+    <desc lang="en">Rob Finnerty gives straight talk on the biggest issues facing America and the world!</desc>
+  </programme>
+  
+
+<programme start="20260915010000 +0000" stop="20260915020000 +0000" channel="Newsmax.us">
+    <title lang="en">Greg Kelly Reports</title>
+    <desc lang="en">Greg Kelly gives hardest-hitting reports and analysis from L.A. to N.Y., from Beltway to Rust Belt.</desc>
+  </programme>
+  
+
+<programme start="20260915020000 +0000" stop="20260915030000 +0000" channel="Newsmax.us">
+    <title lang="en">The Right Squad</title>
+    <desc lang="en">The Right Squad panelists engage in strong analysis with dynamic conversation and debates.</desc>
+  </programme>
+  
+
+<programme start="20260915030000 +0000" stop="20260915040000 +0000" channel="Newsmax.us">
+    <title lang="en">Rob Schmitt Tonight</title>
+    <desc lang="en">Rob Schmitt wraps up all the latest news and opinion, and sets the stage for the next day.</desc>
+  </programme>
+  
+
+<programme start="20260915040000 +0000" stop="20260915050000 +0000" channel="Newsmax.us">
+    <title lang="en">Finnerty</title>
+    <desc lang="en">Rob Finnerty gives straight talk on the biggest issues facing America and the world!</desc>
+  </programme>
+  
+
+<programme start="20260915050000 +0000" stop="20260915060000 +0000" channel="Newsmax.us">
+    <title lang="en">Greg Kelly Reports</title>
+    <desc lang="en">Greg Kelly gives hardest-hitting reports and analysis from L.A. to N.Y., from Beltway to Rust Belt.</desc>
+  </programme>
+  
+
+<programme channel="nfl.network.hd.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="nfl.network.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="nfl.redzone.hd.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="nfl.redzone.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="nfl.teams.denver.broncos" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="nhl.colorado.avalanche" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="nhl.network.hd.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="nhl.network.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="nickelodeon.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="nickelodeon.west.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="own.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="own.west.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="oxygen.east.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="oxygen.west.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="pac.12.insider.fhd.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="pac.12.insider.hd.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="pac.12.insider.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="paramount.network.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="paramount.network.west.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="reelz.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="smithsonian.channel.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="start.tv.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="sundance.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="syfy.east.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="syfy.west.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="tbs.east.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="tbs.west.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="tcm.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="the.weather.channel.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="tlc.east.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="tlc.west.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="tnt.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="tnt.west.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="travel.channel.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="travel.channel.west.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="trutv.east.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="tv.land.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="tv.land.west.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="usa.network.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="usa.network.west.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="vh1.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="vh1.west.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+<programme channel="we.tv.us" start="20260914014315 +0000" stop="20260916014315 +0000"><title lang="en">Programming</title></programme>
+
+</tv>
